@@ -2,6 +2,9 @@
 
 **Swadisht-e-Khana** is an online food delivery website designed to offer the best food services in India. The site allows users to browse services like individual food ordering, bulk ordering, and catering, with a clean and responsive layout. The website is designed to provide a seamless experience on both desktop and mobile devices.
 
+## Preview
+You can view the live version of the site at [Swadisht-e-Khana](https://shivangii09.github.io/Swadisht-e-Khana/).
+
 ## Features
 - **Responsive Design**: The website adapts to different screen sizes, ensuring a user-friendly experience across devices.
 - **Clean Navigation**: Easy-to-use navigation bar for quick access to different sections, including services, client testimonials, and contact form.
